@@ -1,6 +1,6 @@
 🤖 ML-Powered Tic Tac Toe | AI vs Human + Minimax Analyzer
 
-🚀 Features
+🚀 Features /n
 ✅ Human (X) vs AI (O) gameplay
 🧠 AI decisions are made using a TensorFlow/Keras-trained model
 🔍 AI moves are evaluated by the Minimax algorithm to check for optimality
